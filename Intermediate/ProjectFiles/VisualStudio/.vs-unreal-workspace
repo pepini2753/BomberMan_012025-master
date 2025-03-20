@@ -1,0 +1,19 @@
+{
+  "targets": {
+    "BomberMan_012025Editor": {
+      "targetType": "Editor",
+      "targetPath": "C:\\Users\\HP\\Downloads\\BomberMan_012025-master\\Source\\BomberMan_012025Editor.Target.cs",
+      "projectPath": "C:\\Users\\HP\\Downloads\\BomberMan_012025-master\\BomberMan_012025.uproject",
+      "configurations": [
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "Development-Win64"
+      ]
+    }
+  }
+}
